@@ -5,13 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bjpowernode</groupId>
-  <artifactId>springPlay</artifactId>
+  <artifactId>testFirstGitub</artifactId>
   <version>1.0.0</version>
   <packaging>war</packaging>
 
-  <name>springPlay Maven Webapp</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
