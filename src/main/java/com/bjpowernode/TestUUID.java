@@ -5,6 +5,7 @@ import java.util.UUID;
 public class TestUUID {
 
     private String id;
+    private String name;
     public static void main(String[] args) {
         /**
          * 以后我们不怎么使用id来做主键，因此，他每次自增的时候都需要找到最大值，当数据过多的时候
